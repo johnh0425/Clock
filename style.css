@@ -1,0 +1,16 @@
+body {
+    background-color:lightblue;
+    text-align: center;
+}
+#timeLabel {
+    white-space: nowrap;
+    display:inline-block;
+    font-family: "consolas", monospace;
+    font-size: 10vw;
+}
+#dateLabel {
+    white-space: nowrap;
+    display:inline-block;
+    font-family: "consolas", monospace;
+    font-size: 6vw;
+}
